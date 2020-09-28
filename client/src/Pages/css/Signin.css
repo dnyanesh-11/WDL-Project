@@ -27,12 +27,12 @@ button {
 
 .cont {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
-  background: #ededed;
+  background: #fff;
   overflow: hidden;
   position: relative;
   width: 900px;
-  height: 550px;
-  margin: 0 auto 100px;
+  height: 600px;
+  margin: 0 auto 50px;
   top: 80px;
 }
 
